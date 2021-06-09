@@ -1,0 +1,8 @@
+{
+  "name": "everydayeverytry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "03d281eb"
+}
